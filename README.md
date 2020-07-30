@@ -1,3 +1,4 @@
 # Vim-Config
-This is my Vim config
+This is my Vim config:
+
 ![Screenshot](screenshot.png)
